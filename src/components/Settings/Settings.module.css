@@ -1,0 +1,32 @@
+.dis {
+    display: inline-flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    width: 46%;
+    height: 40vh;
+    padding: 1%;
+    margin: 1%;
+    background-image: url('./../../assets/images/settings.jpg');
+}
+
+.osn {
+    padding: 0;
+    margin: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.text {
+    margin-top: -10%;
+    font-size: 20px;
+}
+
+.butt {
+    margin-left: 40%;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    font-weight: bold;
+}
