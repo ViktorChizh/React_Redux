@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import Settings from './Settings';
 import { connect } from 'react-redux';
 import { onClickPageAC } from '../../redux/settings-reducer';
